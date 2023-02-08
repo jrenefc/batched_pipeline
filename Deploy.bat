@@ -1,0 +1,1 @@
+echo "Desplegando la construcción del proyecto el: %date% a las: %time%"

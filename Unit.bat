@@ -1,0 +1,1 @@
+echo "Ejecutando los casos de Unit Test el: %date% a las: %time%"

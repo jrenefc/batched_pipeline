@@ -1,0 +1,1 @@
+echo "Probando el Gate de Calidad el: %date% a las: %time%"
